@@ -1,1 +1,1 @@
-# freechat_app
+# Echolalia_app
